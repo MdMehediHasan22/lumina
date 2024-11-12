@@ -140,10 +140,10 @@
 
   /* footer */
 
-  .footer{
+  .footer {
     border-top: 1px solid #aaa;
-    margin-top:2rem;
-    padding:2rem,1.5rem
+    padding: 2rem 1.5rem;
+    margin-top: 2rem;
   }
   .footer .footer-flex {
     display: flex;
